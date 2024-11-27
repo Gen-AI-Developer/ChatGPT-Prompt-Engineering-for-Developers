@@ -1,7 +1,5 @@
 # ChatGPT-Prompt-Engineering-for-Developers
 
-Here’s a beginner-friendly explanation of the text inside the triple quotes, rewritten for clarity and simplicity:
-
 ---
 
 **This Repository Simplifies ChatGPT Prompt Engineering for Developers**
